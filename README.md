@@ -124,3 +124,6 @@ Bloom-Co/
     ├── img2.png
     ├── img3.png
     └── img4.png
+
+##Live Design
+https://www.figma.com/design/GiPDHTEk6hxL9TOnQWmx1F/Untitled?node-id=0-1&t=XPhRsZGswWP2ZaFg-1
